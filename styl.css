@@ -1,14 +1,13 @@
-#ns
+ #ns
         {
             text-align: center;
             gap:10px;
             margin: auto;
             margin-top:200px;
             background-color: aquamarine;
-            margin-left: 500px;
-            margin-right: 500px;
             padding: 10px;
             border-radius: 10px;
+            max-width: 500px;
         }
         #ms
         {
@@ -37,3 +36,4 @@
         {
             margin-top: 10px;
         }
+      
