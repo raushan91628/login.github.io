@@ -1,0 +1,39 @@
+#ns
+        {
+            text-align: center;
+            gap:10px;
+            margin: auto;
+            margin-top:200px;
+            background-color: aquamarine;
+            margin-left: 500px;
+            margin-right: 500px;
+            padding: 10px;
+            border-radius: 10px;
+        }
+        #ms
+        {
+            Width:400px;
+            padding:10px;
+        }
+        #mk
+        {
+            Width:400px;
+            padding: 10px;
+        }
+        #mg
+        {
+            font-size: 30px;
+            background-color: blue;
+            color: aliceblue;
+        }
+        #mg:hover
+        {
+            cursor: pointer;
+            font-size: 30px;
+            background-color: red;
+            color: aliceblue;
+        }
+        #cxcxcx
+        {
+            margin-top: 10px;
+        }
