@@ -16,6 +16,6 @@
                return false;
     
             }
-            window.location.assign("https://raushan91628.github.io/currency.github.io/");
+            window.location.assign("./copy.html");
     
         });
